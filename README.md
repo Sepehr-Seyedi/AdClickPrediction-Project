@@ -1,7 +1,4 @@
-Below is a **clean, professional, GitHub-ready README.md** for your project, based on the uploaded **Report.pdf** and the expected workflow of your notebook (**EDA → preprocessing → modeling → evaluation**).
-You can copy-paste directly into your repo.
 
----
 
 # 📊 CTR Prediction Using Machine Learning
 
